@@ -1,0 +1,18 @@
+2026-09-09 06:51:52.656 [info] 
+
+
+
+
+2026-09-09 06:51:52.663 [info] Extension host agent started.
+2026-09-09 06:51:58.415 [info] [172.16.13.65][caef5227][ManagementConnection] New connection established.
+2026-09-09 06:52:02.348 [info] [172.16.13.65][af1771ad][ExtensionHostConnection] New connection established.
+2026-09-09 06:52:02.352 [info] [172.16.13.65][af1771ad][ExtensionHostConnection] <91> Launched Extension Host Process.
+2026-09-09 07:02:46.715 [info] [172.16.13.65][caef5227][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-09-09 07:02:46.790 [info] [172.16.13.65][af1771ad][ExtensionHostConnection] <91> Extension Host Process exited with code: 0, signal: null.
+2026-09-09 07:03:19.097 [info] [172.16.13.65][4292f834][ManagementConnection] New connection established.
+2026-09-09 07:03:23.117 [info] [172.16.13.65][fa1f8ae2][ExtensionHostConnection] New connection established.
+2026-09-09 07:03:23.121 [info] [172.16.13.65][fa1f8ae2][ExtensionHostConnection] <2111> Launched Extension Host Process.
+2026-09-09 07:58:38.612 [info] [172.16.13.65][4292f834][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-09-09 09:07:35.673 [info] [172.16.13.65][4292f834][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-09-09 09:07:35.674 [info] [172.16.13.65][fa1f8ae2][ExtensionHostConnection] The client has reconnected.
+2026-09-09 09:07:37.296 [info] [172.16.13.65][4292f834][ManagementConnection] The client has reconnected.

@@ -1,0 +1,82 @@
+!SESSION 2026-09-01 10:58:53.097 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/tmp/lsp-7b5f62d12e8f79d1c4d73281b5147549.sock
+Command-line arguments:  -data /voc/work/.local/share/code-server/User/workspaceStorage/dbf4fe2/redhat.java/jdt_ws --pipe=/tmp/lsp-7b5f62d12e8f79d1c4d73281b5147549.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.321
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.468
+!MESSAGE Started org.eclipse.buildship.core 121ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.474
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.644
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.691
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:00.698
+!MESSAGE Initializing Java Language Server 1.50.0.202509040211
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.488
+!MESSAGE ProjectRegistryRefreshJob finished 1008ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.708
+!MESSAGE Setting /usr/lib/jvm/java-21-openjdk-amd64 as 'JavaSE-21' environment (id:1788260341655)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.753
+!MESSAGE Setting /usr/lib/jvm/java-11-openjdk-amd64 as 'JavaSE-11' environment (id:1788260341714)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.759
+!MESSAGE Setting java.home /usr/lib/jvm/java-21-openjdk-amd64 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.776
+!MESSAGE Default VM Install changed from  1788260341622-/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/redhat.java-1.45.0@linux-x64/jre/21.0.8-linux-x86_64 to 1788260341655-/usr/lib/jvm/java-21-openjdk-amd64
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.832
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.853
+!MESSAGE Installed reference:file:/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/vscjava.vscode-java-debug-0.58.2/server/com.microsoft.java.debug.plugin-0.53.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.878
+!MESSAGE Started reference:file:/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/vscjava.vscode-java-debug-0.58.2/server/com.microsoft.java.debug.plugin-0.53.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.887
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.892
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.897
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.902
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.918
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:01.924
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:02.253
+!MESSAGE Workspace initialized in 336ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:02.263
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:02.312
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:02.318
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-01 10:59:02.326
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'

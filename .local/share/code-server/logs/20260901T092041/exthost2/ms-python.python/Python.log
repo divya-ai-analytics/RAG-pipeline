@@ -1,0 +1,65 @@
+2026-09-01 11:13:21.431 [info] Telemetry level is off
+2026-09-01 11:13:21.431 [info] Experiments are disabled, only manually opted experiments are active.
+2026-09-01 11:13:21.431 [warning] Dir "/voc/work/.pixi/envs" is not watchable (directory does not exist)
+2026-09-01 11:13:21.431 [info] Starting Environment refresh
+2026-09-01 11:13:21.435 [info] Searching for interpreters in posix paths locator
+2026-09-01 11:13:21.435 [info] Searching for pyenv environments
+2026-09-01 11:13:21.435 [info] Searching for conda environments
+2026-09-01 11:13:21.435 [info] Searching for global virtual environments
+2026-09-01 11:13:21.435 [info] Searching for custom virtual environments
+2026-09-01 11:13:21.435 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-09-01 11:13:21.435 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-09-01 11:13:21.435 [info] pyenv is not installed
+2026-09-01 11:13:21.435 [info] Finished searching for pyenv environments: 37 milliseconds
+2026-09-01 11:13:21.435 [info] Finished searching for custom virtual envs: 36 milliseconds
+2026-09-01 11:13:21.435 [info] > conda info --json
+2026-09-01 11:13:21.435 [info] > hatch env show --json
+2026-09-01 11:13:21.435 [info] cwd: .
+2026-09-01 11:13:21.435 [info] > pyenv which python
+2026-09-01 11:13:21.435 [info] cwd: .
+2026-09-01 11:13:21.435 [info] Finished searching for global virtual envs: 46 milliseconds
+2026-09-01 11:13:21.435 [info] Found: /bin/python --> /bin/python3.10
+2026-09-01 11:13:21.435 [info] Found: /bin/python3 --> /bin/python3.10
+2026-09-01 11:13:21.435 [info] Found: /bin/python3.10 --> /bin/python3.10
+2026-09-01 11:13:21.435 [info] Found: /bin/python3.8 --> /bin/python3.8
+2026-09-01 11:13:21.443 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2026-09-01 11:13:21.443 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2026-09-01 11:13:21.447 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2026-09-01 11:13:21.448 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2026-09-01 11:13:21.463 [info] > /bin/python -I /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/get_output_via_markers.py /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/interpreterInfo.py
+2026-09-01 11:13:21.472 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/get_output_via_markers.py /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/interpreterInfo.py
+2026-09-01 11:13:21.478 [info] Finished searching for interpreters in posix paths locator: 121 milliseconds
+2026-09-01 11:13:21.483 [info] Environments refresh paths discovered (event): 127 milliseconds
+2026-09-01 11:13:21.483 [info] Environments refresh paths discovered: 127 milliseconds
+2026-09-01 11:13:21.493 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/get_output_via_markers.py /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/interpreterInfo.py
+2026-09-01 11:13:21.497 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/get_output_via_markers.py /usr/local/lib/code-server-4.103.2/lib/vscode/extensions/ms-python.python-2025.12.0/python_files/interpreterInfo.py
+2026-09-01 11:13:21.519 [info] Environments refresh finished (event): 163 milliseconds
+2026-09-01 11:13:21.525 [info] Environment refresh took 168 milliseconds
+2026-09-01 11:13:21.527 [info] Python interpreter path: /bin/python
+2026-09-01 11:13:22.624 [info] Starting Jedi language server for work.
+2026-09-01 11:14:02.337 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:14:52.564 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:14:59.572 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:05.196 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:08.696 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:09.998 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:15.015 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:17.648 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:22.098 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:23.895 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:25.457 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:42.896 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:44.984 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:15:53.146 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:16:31.411 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:16:35.774 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:16:40.970 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:16:57.749 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:17:00.765 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:17:02.785 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:17:45.456 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:17:46.967 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:18:24.251 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:18:32.137 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:55:55.961 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py
+2026-09-01 11:56:28.607 [info] Discover tests for workspace name: work - uri: /voc/work/divya-capstone/src/hello_llm.py

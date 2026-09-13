@@ -1,0 +1,14 @@
+2026-08-24 15:56:55.670 [info] 
+
+
+
+
+2026-08-24 15:56:55.709 [info] Extension host agent started.
+2026-08-24 15:57:04.246 [info] [172.16.16.1][d19bb616][ManagementConnection] New connection established.
+2026-08-24 15:57:07.924 [info] [172.16.16.1][564e9edc][ExtensionHostConnection] New connection established.
+2026-08-24 15:57:07.965 [info] [172.16.16.1][564e9edc][ExtensionHostConnection] <77> Launched Extension Host Process.
+2026-08-24 16:48:05.750 [info] [172.16.16.1][d19bb616][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-08-24 17:07:53.262 [info] [172.16.16.1][d19bb616][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-08-24 17:07:53.263 [info] [172.16.16.1][564e9edc][ExtensionHostConnection] The client has reconnected.
+2026-08-24 17:07:53.627 [info] [172.16.16.1][d19bb616][ManagementConnection] The client has reconnected.
+2026-08-24 18:18:27.351 [info] [172.16.16.1][d19bb616][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

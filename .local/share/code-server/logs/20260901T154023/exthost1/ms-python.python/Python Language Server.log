@@ -1,0 +1,23 @@
+2026-09-01 15:40:37.219 [info] semantic_tokens_full file:///voc/work/divya-capstone/src/hello_llm.py 
+2026-09-01 15:40:37.840 [info] semantic_tokens_range file:///voc/work/divya-capstone/src/hello_llm.py 0:0-26:17
+2026-09-01 15:40:38.595 [info] [Debug - 3:40:38 PM] no definitions found for name "create" of type 'statement' (13:35)
+2026-09-01 15:40:38.596 [info] [Debug - 3:40:38 PM] no definitions found for name "model" of type 'statement' (14:8)
+2026-09-01 15:40:38.598 [info] [Debug - 3:40:38 PM] no definitions found for name "messages" of type 'statement' (15:8)
+2026-09-01 15:40:38.599 [info] [Debug - 3:40:38 PM] no definitions found for name "temperature" of type 'statement' (19:8)
+2026-09-01 15:40:38.601 [info] [Debug - 3:40:38 PM] no definitions found for name "choices" of type 'statement' (22:16)
+2026-09-01 15:40:38.601 [info] [Debug - 3:40:38 PM] no definitions found for name "message" of type 'statement' (22:27)
+2026-09-01 15:40:38.601 [info] [Debug - 3:40:38 PM] no definitions found for name "content" of type 'statement' (22:35)
+2026-09-01 15:40:38.601 [info] [Debug - 3:40:38 PM] no matching semantic token for "__name__" of type 'statement' (25:3)
+2026-09-01 15:40:38.801 [info] [Debug - 3:40:38 PM] multiple definitions found for name "model" of type 'statement' (14:8):
+ <Name name='model', description='param model: Union[str, ChatModel]'>
+<Name name='model', description='param model: Union[str, ChatModel]'>
+<Name name='model', description='param model: Union[str, ChatModel]'>
+2026-09-01 15:40:38.802 [info] [Debug - 3:40:38 PM] multiple definitions found for name "messages" of type 'statement' (15:8):
+ <Name name='messages', description='param messages: Iterable[ChatCompletionMessageParam]'>
+<Name name='messages', description='param messages: Iterable[ChatCompletionMessageParam]'>
+<Name name='messages', description='param messages: Iterable[ChatCompletionMessageParam]'>
+2026-09-01 15:40:38.804 [info] [Debug - 3:40:38 PM] multiple definitions found for name "temperature" of type 'statement' (19:8):
+ <Name name='temperature', description='param temperature: Optional[float] | NotGiven=NOT_GIVEN'>
+<Name name='temperature', description='param temperature: Optional[float] | NotGiven=NOT_GIVEN'>
+<Name name='temperature', description='param temperature: Optional[float] | NotGiven=NOT_GIVEN'>
+2026-09-01 15:40:40.246 [info] [Debug - 3:40:40 PM] no matching semantic token for "__name__" of type 'statement' (25:3)

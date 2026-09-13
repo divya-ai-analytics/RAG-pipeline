@@ -1,0 +1,273 @@
+2026-09-13 16:28:39.615 [info] semantic_tokens_range file:///voc/work/data/pipeline.py 0:0-47:30
+2026-09-13 16:28:39.675 [info] semantic_tokens_full file:///voc/work/data/pipeline.py 
+2026-09-13 16:28:39.764 [info] [Debug - 4:28:39 PM] no definitions found for name "module logging_config" of type 'module' (23:6)
+2026-09-13 16:28:39.765 [info] [Debug - 4:28:39 PM] no definitions found for name "module get_logger" of type 'module' (23:28)
+2026-09-13 16:28:39.768 [info] [Debug - 4:28:39 PM] no definitions found for name "module settings" of type 'module' (24:6)
+2026-09-13 16:28:39.771 [info] [Debug - 4:28:39 PM] no definitions found for name "module logging_config" of type 'module' (23:6)
+2026-09-13 16:28:39.772 [info] [Debug - 4:28:39 PM] no definitions found for name "module Settings" of type 'module' (24:22)
+2026-09-13 16:28:39.772 [info] [Debug - 4:28:39 PM] no definitions found for name "module get_logger" of type 'module' (23:28)
+2026-09-13 16:28:39.772 [info] [Debug - 4:28:39 PM] no definitions found for name "module RunSummary" of type 'module' (24:32)
+2026-09-13 16:28:39.776 [info] ERROR:pygls.protocol.json_rpc:Exception occurred for message "4": _pickle.UnpicklingError: invalid load key, ' '.
+NoneType: None
+
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "get_logger" of type 'statement' (30:6)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "module settings" of type 'module' (24:6)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "Settings" of type 'statement' (36:23)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "module Settings" of type 'module' (24:22)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "use_fake" of type 'statement' (38:24)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "module RunSummary" of type 'module' (24:32)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "get_logger" of type 'statement' (30:6)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "Settings" of type 'statement' (36:23)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "use_fake" of type 'statement' (38:24)
+2026-09-13 16:28:39.776 [info] [Debug - 4:28:39 PM] no definitions found for name "module fake_llm" of type 'module' (39:10)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module fake_llm" of type 'module' (39:10)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module Question" of type 'module' (39:26)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module Question" of type 'module' (39:26)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module Answer" of type 'module' (39:36)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module Answer" of type 'module' (39:36)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module fake_ask_llm" of type 'module' (39:44)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module fake_ask_llm" of type 'module' (39:44)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module FakeLLMError" of type 'module' (39:58)
+2026-09-13 16:28:39.780 [info] [Debug - 4:28:39 PM] no definitions found for name "module FakeLLMError" of type 'module' (39:58)
+2026-09-13 16:28:39.780 [info] [Error - 4:28:39 PM] Request textDocument/semanticTokens/range failed.
+2026-09-13 16:28:39.784 [info]   Message: _pickle.UnpicklingError: invalid load key, ' '.
+  Code: -32603 
+[object Object]
+2026-09-13 16:29:20.545 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "5"
+
+2026-09-13 16:30:35.239 [info] [Info  - 4:30:35 PM] Connection to server got closed. Server will restart.
+2026-09-13 16:30:35.240 [info] true
+2026-09-13 16:30:35.244 [info] [Error - 4:30:35 PM] Server process exited with signal SIGKILL.
+2026-09-13 16:30:38.003 [info] semantic_tokens_full file:///voc/work/src/query_results.py 
+2026-09-13 16:30:38.182 [info] [Debug - 4:30:38 PM] no matching semantic token for "__name__" of type 'statement' (48:3)
+2026-09-13 16:31:01.206 [info] semantic_tokens_full file:///voc/work/src/store.py 
+2026-09-13 16:31:01.233 [info] [Debug - 4:31:01 PM] no matching semantic token for "module pipeline" of type 'module' (15:6)
+2026-09-13 16:31:01.234 [info] [Debug - 4:31:01 PM] no definitions found for name "module Answer" of type 'module' (15:22)
+2026-09-13 16:31:01.238 [info] [Debug - 4:31:01 PM] no definitions found for name "module settings" of type 'module' (16:6)
+2026-09-13 16:31:01.238 [info] [Debug - 4:31:01 PM] no definitions found for name "module RunSummary" of type 'module' (16:22)
+2026-09-13 16:31:01.241 [info] [Debug - 4:31:01 PM] no definitions found for name "RunSummary" of type 'statement' (82:48)
+2026-09-13 16:31:01.483 [info] semantic_tokens_range file:///voc/work/src/store.py 0:0-47:82
+2026-09-13 16:31:01.494 [info] [Debug - 4:31:01 PM] no matching semantic token for "module pipeline" of type 'module' (15:6)
+2026-09-13 16:31:01.495 [info] [Debug - 4:31:01 PM] no definitions found for name "module Answer" of type 'module' (15:22)
+2026-09-13 16:31:01.499 [info] [Debug - 4:31:01 PM] no definitions found for name "module settings" of type 'module' (16:6)
+2026-09-13 16:31:01.499 [info] [Debug - 4:31:01 PM] no definitions found for name "module RunSummary" of type 'module' (16:22)
+2026-09-13 16:31:02.154 [info] [Debug - 4:31:02 PM] no definitions found for name "started_at" of type 'statement' (89:20)
+2026-09-13 16:31:02.154 [info] [Debug - 4:31:02 PM] no definitions found for name "elapsed_seconds" of type 'statement' (90:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "n_questions" of type 'statement' (91:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "n_succeeded" of type 'statement' (92:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "n_retries_total" of type 'statement' (93:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "total_cost_usd" of type 'statement' (94:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "fail_rate" of type 'statement' (95:20)
+2026-09-13 16:31:02.157 [info] [Debug - 4:31:02 PM] no definitions found for name "use_fake" of type 'statement' (96:25)
+2026-09-13 16:31:02.162 [info] [Debug - 4:31:02 PM] no matching semantic token for "lastrowid" of type 'statement' (100:15)
+2026-09-13 16:31:02.163 [info] [Debug - 4:31:02 PM] no definitions found for name "Answer" of type 'statement' (106:22)
+2026-09-13 16:31:02.193 [info] [Debug - 4:31:02 PM] no definitions found for name "question" of type 'statement' (113:19)
+2026-09-13 16:31:02.194 [info] [Debug - 4:31:02 PM] no definitions found for name "text" of type 'statement' (113:31)
+2026-09-13 16:31:02.196 [info] [Debug - 4:31:02 PM] no definitions found for name "cost_usd" of type 'statement' (113:39)
+2026-09-13 16:31:02.197 [info] [Debug - 4:31:02 PM] no definitions found for name "retries" of type 'statement' (113:51)
+2026-09-13 16:32:32.787 [info] semantic_tokens_full file:///voc/work/src/pipeline/pipeline.py 
+2026-09-13 16:32:32.848 [info] [Debug - 4:32:32 PM] no definitions found for name "module logging_config" of type 'module' (23:6)
+2026-09-13 16:32:32.848 [info] [Debug - 4:32:32 PM] no definitions found for name "module get_logger" of type 'module' (23:28)
+2026-09-13 16:32:32.848 [info] [Debug - 4:32:32 PM] no definitions found for name "module settings" of type 'module' (24:6)
+2026-09-13 16:32:32.852 [info] [Debug - 4:32:32 PM] no definitions found for name "module Settings" of type 'module' (24:22)
+2026-09-13 16:32:32.852 [info] [Debug - 4:32:32 PM] no definitions found for name "module RunSummary" of type 'module' (24:32)
+2026-09-13 16:32:32.852 [info] [Debug - 4:32:32 PM] no definitions found for name "get_logger" of type 'statement' (30:6)
+2026-09-13 16:32:32.852 [info] [Debug - 4:32:32 PM] no definitions found for name "Settings" of type 'statement' (36:23)
+2026-09-13 16:32:32.852 [info] [Debug - 4:32:32 PM] no definitions found for name "use_fake" of type 'statement' (38:24)
+2026-09-13 16:32:32.947 [info] [Debug - 4:32:32 PM] multiple definitions found for name "Question" of type 'statement' (94:68):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:32.950 [info] [Debug - 4:32:32 PM] multiple definitions found for name "newline" of type 'statement' (96:20):
+ <Name name='newline', description='param newline: Optional[str]=...'>
+<Name name='newline', description='param newline: None=...'>
+<Name name='newline', description='param newline: None=...'>
+<Name name='newline', description='param newline: None=...'>
+<Name name='newline', description='param newline: None=...'>
+<Name name='newline', description='param newline: None=...'>
+<Name name='newline', description='param newline: Optional[str]=...'>
+2026-09-13 16:32:32.950 [info] [Debug - 4:32:32 PM] multiple definitions found for name "encoding" of type 'statement' (96:32):
+ <Name name='encoding', description='param encoding: Optional[str]=...'>
+<Name name='encoding', description='param encoding: None=...'>
+<Name name='encoding', description='param encoding: None=...'>
+<Name name='encoding', description='param encoding: None=...'>
+<Name name='encoding', description='param encoding: None=...'>
+<Name name='encoding', description='param encoding: None=...'>
+<Name name='encoding', description='param encoding: Optional[str]=...'>
+2026-09-13 16:32:32.953 [info] [Debug - 4:32:32 PM] multiple definitions found for name "Question" of type 'statement' (98:12):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:32.955 [info] semantic_tokens_range file:///voc/work/src/pipeline/pipeline.py 0:0-47:30
+2026-09-13 16:32:32.970 [info] [Debug - 4:32:32 PM] no definitions found for name "module logging_config" of type 'module' (23:6)
+2026-09-13 16:32:32.970 [info] [Debug - 4:32:32 PM] no definitions found for name "module get_logger" of type 'module' (23:28)
+2026-09-13 16:32:32.970 [info] [Debug - 4:32:32 PM] no definitions found for name "module settings" of type 'module' (24:6)
+2026-09-13 16:32:32.973 [info] [Debug - 4:32:32 PM] no definitions found for name "module Settings" of type 'module' (24:22)
+2026-09-13 16:32:32.973 [info] [Debug - 4:32:32 PM] no definitions found for name "module RunSummary" of type 'module' (24:32)
+2026-09-13 16:32:32.973 [info] [Debug - 4:32:32 PM] no definitions found for name "get_logger" of type 'statement' (30:6)
+2026-09-13 16:32:32.973 [info] [Debug - 4:32:32 PM] no definitions found for name "Settings" of type 'statement' (36:23)
+2026-09-13 16:32:32.973 [info] [Debug - 4:32:32 PM] no definitions found for name "use_fake" of type 'statement' (38:24)
+2026-09-13 16:32:33.322 [info] [Debug - 4:32:33 PM] no definitions found for name "text" of type 'statement' (98:21)
+2026-09-13 16:32:33.322 [info] [Debug - 4:32:33 PM] no definitions found for name "row" of type 'statement' (98:58)
+2026-09-13 16:32:33.325 [info] [Debug - 4:32:33 PM] no definitions found for name "get" of type 'statement' (98:62)
+2026-09-13 16:32:33.326 [info] [Debug - 4:32:33 PM] multiple definitions found for name "Question" of type 'statement' (105:7):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:33.326 [info] [Debug - 4:32:33 PM] multiple definitions found for name "Answer" of type 'statement' (109:5):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:33.326 [info] [Debug - 4:32:33 PM] no definitions found for name "use_fake" of type 'statement' (116:28)
+2026-09-13 16:32:33.338 [info] [Debug - 4:32:33 PM] no definitions found for name "module cost" of type 'module' (121:14)
+2026-09-13 16:32:33.339 [info] [Debug - 4:32:33 PM] no definitions found for name "module compute_cost_usd" of type 'module' (121:26)
+2026-09-13 16:32:33.339 [info] [Debug - 4:32:33 PM] no definitions found for name "model" of type 'statement' (122:37)
+2026-09-13 16:32:33.342 [info] [Debug - 4:32:33 PM] multiple definitions found for name "text" of type 'statement' (129:54):
+ <Name full_name='src.pipeline.pipeline.Question.text', description='text: str'>
+<Name full_name='src.pipeline.fake_llm.Question.text', description='text: str'>
+2026-09-13 16:32:33.342 [info] [Debug - 4:32:33 PM] multiple definitions found for name "text" of type 'statement' (132:29):
+ <Name full_name='src.pipeline.fake_llm.Question.text', description='text: str'>
+<Name full_name='src.pipeline.pipeline.Question.text', description='text: str'>
+2026-09-13 16:32:33.343 [info] [Debug - 4:32:33 PM] multiple definitions found for name "user_content" of type 'statement' (134:37):
+ <Name full_name='src.pipeline.pipeline.ask_llm.user_content', description='user_content = q.text'>
+<Name full_name='src.pipeline.pipeline.ask_llm.user_content', description='user_content = ( "Answer the question using ONLY the context below. If the context " "does not contain the answer, say you don\'t have enough information. " "Cite the source id in square brackets after any fact you use.\\n\\n" f"Context:\\n{context}\\n\\nQuestion: {q.text}" )'>
+2026-09-13 16:32:33.346 [info] [Debug - 4:32:33 PM] no definitions found for name "info" of type 'statement' (135:12)
+2026-09-13 16:32:35.771 [info] [Debug - 4:32:35 PM] multiple definitions found for name "user_content" of type 'statement' (139:50):
+ <Name full_name='src.pipeline.pipeline.ask_llm.user_content', description='user_content = q.text'>
+<Name full_name='src.pipeline.pipeline.ask_llm.user_content', description='user_content = ( "Answer the question using ONLY the context below. If the context " "does not contain the answer, say you don\'t have enough information. " "Cite the source id in square brackets after any fact you use.\\n\\n" f"Context:\\n{context}\\n\\nQuestion: {q.text}" )'>
+2026-09-13 16:32:35.955 [info] [Debug - 4:32:35 PM] no definitions found for name "choices" of type 'statement' (143:16)
+2026-09-13 16:32:35.956 [info] [Debug - 4:32:35 PM] no definitions found for name "finish_reason" of type 'statement' (143:27)
+2026-09-13 16:32:35.960 [info] [Debug - 4:32:35 PM] no definitions found for name "warning" of type 'statement' (144:16)
+2026-09-13 16:32:35.960 [info] [Debug - 4:32:35 PM] no definitions found for name "choices" of type 'statement' (145:31)
+2026-09-13 16:32:35.960 [info] [Debug - 4:32:35 PM] no definitions found for name "message" of type 'statement' (145:42)
+2026-09-13 16:32:35.960 [info] [Debug - 4:32:35 PM] no definitions found for name "tool_calls" of type 'statement' (145:50)
+2026-09-13 16:32:35.960 [info] [Debug - 4:32:35 PM] no definitions found for name "function" of type 'statement' (145:64)
+2026-09-13 16:32:35.963 [info] [Debug - 4:32:35 PM] no definitions found for name "arguments" of type 'statement' (145:73)
+2026-09-13 16:32:35.963 [info] [Debug - 4:32:35 PM] no definitions found for name "usage" of type 'statement' (146:17)
+2026-09-13 16:32:35.963 [info] [Debug - 4:32:35 PM] multiple definitions found for name "Answer" of type 'statement' (147:14):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:35.963 [info] [Debug - 4:32:35 PM] no definitions found for name "question" of type 'statement' (148:12)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] multiple definitions found for name "text" of type 'statement' (148:23):
+ <Name full_name='src.pipeline.fake_llm.Question.text', description='text: str'>
+<Name full_name='src.pipeline.pipeline.Question.text', description='text: str'>
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "text" of type 'statement' (149:12)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "cost_usd" of type 'statement' (150:12)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "compute_cost_usd" of type 'statement' (150:21)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "prompt_tokens" of type 'statement' (150:47)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "completion_tokens" of type 'statement' (150:64)
+2026-09-13 16:32:35.966 [info] [Debug - 4:32:35 PM] no definitions found for name "confidence" of type 'statement' (151:12)
+2026-09-13 16:32:35.967 [info] [Debug - 4:32:35 PM] no definitions found for name "sources" of type 'statement' (152:12)
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] no definitions found for name "get" of type 'statement' (152:61)
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] no definitions found for name "info" of type 'statement' (154:8)
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] multiple definitions found for name "text" of type 'statement' (154:25):
+ <Name full_name='src.pipeline.pipeline.Question.text', description='text: str'>
+<Name full_name='src.pipeline.fake_llm.Question.text', description='text: str'>
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] multiple definitions found for name "ans" of type 'statement' (155:11):
+ <Name full_name='src.pipeline.pipeline.ask_llm.ans', description='ans = Answer( question=q.text, text=args["content"], cost_usd=compute_cost_usd(model, u.prompt_tokens, u.completion_tokens), confidence=args["confidence"], sources=sources if sources is not None else args.get("sources", []), )'>
+<Name full_name='src.pipeline.pipeline.ask_llm.ans', description='ans = await fake_ask_llm(q, fail_rate=fail_rate)'>
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] multiple definitions found for name "Question" of type 'statement' (159:7):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:35.970 [info] [Debug - 4:32:35 PM] multiple definitions found for name "Answer" of type 'statement' (160:5):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:35.974 [info] [Debug - 4:32:35 PM] multiple definitions found for name "ans.retries = attempt" of type 'statement' (168:16):
+ <Name full_name='src.pipeline.fake_llm.Answer.retries', description='retries: int = 0'>
+<Name full_name='src.pipeline.pipeline.Answer.retries', description='retries: int = 0'>
+2026-09-13 16:32:35.975 [info] [Debug - 4:32:35 PM] no definitions found for name "warning" of type 'statement' (173:16)
+2026-09-13 16:32:35.980 [info] [Debug - 4:32:35 PM] multiple definitions found for name "text" of type 'statement' (173:54):
+ <Name full_name='src.pipeline.fake_llm.Question.text', description='text: str'>
+<Name full_name='src.pipeline.pipeline.Question.text', description='text: str'>
+2026-09-13 16:32:36.328 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Question" of type 'statement' (182:20):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:36.328 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Answer" of type 'statement' (183:10):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:36.331 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Question" of type 'statement' (190:20):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:36.331 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Answer" of type 'statement' (193:10):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:36.331 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Answer" of type 'statement' (195:14):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:36.332 [info] [Debug - 4:32:36 PM] no definitions found for name "info" of type 'statement' (198:12)
+2026-09-13 16:32:36.347 [info] [Debug - 4:32:36 PM] multiple definitions found for name "extend" of type 'statement' (202:12):
+ <Name full_name='builtins.list.extend', description='def extend'>
+<Name full_name='builtins.list.extend', description='def extend'>
+2026-09-13 16:32:36.348 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Answer" of type 'statement' (211:18):
+ <Name full_name='src.pipeline.pipeline.Answer', description='class Answer'>
+<Name full_name='src.pipeline.fake_llm.Answer', description='class Answer'>
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "RunSummary" of type 'statement' (217:5)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "RunSummary" of type 'statement' (219:11)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "started_at" of type 'statement' (220:8)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "elapsed_seconds" of type 'statement' (221:8)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "n_questions" of type 'statement' (222:8)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "n_succeeded" of type 'statement' (223:8)
+2026-09-13 16:32:36.351 [info] [Debug - 4:32:36 PM] no definitions found for name "n_retries_total" of type 'statement' (224:8)
+2026-09-13 16:32:36.357 [info] [Debug - 4:32:36 PM] multiple definitions found for name "retries" of type 'statement' (224:32):
+ <Name full_name='src.pipeline.pipeline.Answer.retries', description='retries: int = 0'>
+<Name full_name='src.pipeline.fake_llm.Answer.retries', description='retries: int = 0'>
+2026-09-13 16:32:36.357 [info] [Debug - 4:32:36 PM] no definitions found for name "total_cost_usd" of type 'statement' (225:8)
+2026-09-13 16:32:36.360 [info] [Debug - 4:32:36 PM] multiple definitions found for name "cost_usd" of type 'statement' (225:32):
+ <Name full_name='src.pipeline.pipeline.Answer.cost_usd', description='cost_usd: float'>
+<Name full_name='src.pipeline.fake_llm.Answer.cost_usd', description='cost_usd: float'>
+2026-09-13 16:32:36.360 [info] [Debug - 4:32:36 PM] no definitions found for name "fail_rate" of type 'statement' (226:8)
+2026-09-13 16:32:36.360 [info] [Debug - 4:32:36 PM] no definitions found for name "use_fake" of type 'statement' (227:8)
+2026-09-13 16:32:36.364 [info] [Debug - 4:32:36 PM] no definitions found for name "use_fake" of type 'statement' (236:28)
+2026-09-13 16:32:36.364 [info] [Debug - 4:32:36 PM] multiple definitions found for name "Question" of type 'statement' (237:28):
+ <Name full_name='src.pipeline.pipeline.Question', description='class Question'>
+<Name full_name='src.pipeline.fake_llm.Question', description='class Question'>
+2026-09-13 16:32:36.364 [info] [Debug - 4:32:36 PM] no definitions found for name "text" of type 'statement' (237:37)
+2026-09-13 16:32:36.366 [info] [Debug - 4:32:36 PM] multiple definitions found for name "text" of type 'statement' (238:24):
+ <Name full_name='src.pipeline.pipeline.Answer.text', description='text: str'>
+<Name full_name='src.pipeline.fake_llm.Answer.text', description='text: str'>
+2026-09-13 16:32:36.370 [info] [Debug - 4:32:36 PM] multiple definitions found for name "split" of type 'statement' (238:29):
+ <Name full_name='builtins.str.split', description='def split'>
+<Name full_name='builtins.str.split', description='def split'>
+2026-09-13 16:32:36.373 [info] [Debug - 4:32:36 PM] no definitions found for name "completions" of type 'statement' (242:32)
+2026-09-13 16:32:36.373 [info] [Debug - 4:32:36 PM] no definitions found for name "create" of type 'statement' (242:44)
+2026-09-13 16:32:36.374 [info] [Debug - 4:32:36 PM] no definitions found for name "model" of type 'statement' (243:8)
+2026-09-13 16:32:36.377 [info] [Debug - 4:32:36 PM] no definitions found for name "model" of type 'statement' (243:35)
+2026-09-13 16:32:36.377 [info] [Debug - 4:32:36 PM] no definitions found for name "messages" of type 'statement' (244:8)
+2026-09-13 16:32:36.377 [info] [Debug - 4:32:36 PM] no definitions found for name "stream" of type 'statement' (245:8)
+2026-09-13 16:32:36.377 [info] [Debug - 4:32:36 PM] no definitions found for name "choices" of type 'statement' (248:21)
+2026-09-13 16:32:36.378 [info] [Debug - 4:32:36 PM] no definitions found for name "choices" of type 'statement' (250:17)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "delta" of type 'statement' (250:28)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "content" of type 'statement' (250:34)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "choices" of type 'statement' (251:24)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "delta" of type 'statement' (251:35)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "content" of type 'statement' (251:41)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no matching semantic token for "__name__" of type 'statement' (257:3)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "Settings" of type 'statement' (258:15)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "info" of type 'statement' (259:8)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "model_dump" of type 'statement' (259:33)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "mode" of type 'statement' (259:44)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "questions_csv" of type 'statement' (261:40)
+2026-09-13 16:32:36.381 [info] [Debug - 4:32:36 PM] no definitions found for name "info" of type 'statement' (262:8)
+2026-09-13 16:32:36.479 [info] [Debug - 4:32:36 PM] no definitions found for name "batch_size" of type 'statement' (268:32)
+2026-09-13 16:32:36.479 [info] [Debug - 4:32:36 PM] no definitions found for name "fail_rate" of type 'statement' (269:31)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "fail_rate" of type 'statement' (278:30)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "use_fake" of type 'statement' (279:30)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "info" of type 'statement' (281:8)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "model_dump_json" of type 'statement' (281:33)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "results_json" of type 'statement' (284:13)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "write_text" of type 'statement' (284:26)
+2026-09-13 16:32:36.483 [info] [Debug - 4:32:36 PM] no definitions found for name "model_dump" of type 'statement' (286:31)
+2026-09-13 16:32:36.487 [info] [Debug - 4:32:36 PM] no definitions found for name "mode" of type 'statement' (286:42)
+2026-09-13 16:32:36.492 [info] [Debug - 4:32:36 PM] multiple definitions found for name "model_dump" of type 'statement' (287:26):
+ <Name full_name='pydantic.main.BaseModel.model_dump', description='def model_dump'>
+<Name full_name='pydantic.main.BaseModel.model_dump', description='def model_dump'>
+2026-09-13 16:32:36.493 [info] [Debug - 4:32:36 PM] no definitions found for name "encoding" of type 'statement' (289:8)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "results_json" of type 'statement' (291:54)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "module store" of type 'module' (296:10)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "module connect" of type 'module' (296:23)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "module write_run" of type 'module' (296:32)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "module write_answers" of type 'module' (296:43)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "connect" of type 'statement' (297:9)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "results_db" of type 'statement' (297:26)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "write_run" of type 'statement' (298:17)
+2026-09-13 16:32:36.495 [info] [Debug - 4:32:36 PM] no definitions found for name "write_answers" of type 'statement' (299:17)
+2026-09-13 16:32:36.496 [info] [Debug - 4:32:36 PM] no definitions found for name "model" of type 'statement' (299:53)
+2026-09-13 16:32:36.500 [info] [Debug - 4:32:36 PM] no definitions found for name "model" of type 'statement' (299:68)
+2026-09-13 16:32:36.500 [info] [Debug - 4:32:36 PM] no definitions found for name "info" of type 'statement' (300:8)
+2026-09-13 16:32:36.500 [info] [Debug - 4:32:36 PM] no definitions found for name "results_db" of type 'statement' (300:68)

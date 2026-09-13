@@ -1,0 +1,73 @@
+2026-09-09 09:10:37.272 [info] [main] Log level: Info
+2026-09-09 09:10:37.272 [info] [main] Validating found git in: "git"
+2026-09-09 09:10:37.272 [info] [main] Using git "2.25.1" from "git"
+2026-09-09 09:10:37.272 [info] [Model][doInitialScan] Initial repository scan started
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [3ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [5ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [5ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [5ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.272 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.272 [info] > git rev-parse --show-toplevel [15ms]
+2026-09-09 09:10:37.272 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [22ms]
+2026-09-09 09:10:37.277 [info] [Model][openRepository] Opened repository (path): /voc/work/divya-capstone
+2026-09-09 09:10:37.277 [info] [Model][openRepository] Opened repository (real path): /voc/work/divya-capstone
+2026-09-09 09:10:37.277 [info] [Model][openRepository] Opened repository (kind): repository
+2026-09-09 09:10:37.277 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 09:10:37.277 [info] > git rev-parse --show-toplevel [5ms]
+2026-09-09 09:10:37.277 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.277 [info] > git rev-parse --show-toplevel [4ms]
+2026-09-09 09:10:37.277 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:10:37.277 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-09-09 09:10:37.277 [info] > git config --get commit.template [12ms]
+2026-09-09 09:10:37.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2026-09-09 09:10:37.277 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:10:37.277 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [23ms]
+2026-09-09 09:10:37.277 [info] > git status -z -uall [44ms]
+2026-09-09 09:10:37.277 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 09:10:37.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2026-09-09 09:10:37.277 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:10:37.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2026-09-09 09:10:37.277 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:10:37.277 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2026-09-09 09:10:37.277 [info] > git config --get commit.template [22ms]
+2026-09-09 09:10:37.277 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [20ms]
+2026-09-09 09:10:37.277 [info] > git status -z -uall [32ms]
+2026-09-09 09:10:37.757 [info] > git check-ignore -v -z --stdin [17ms]
+2026-09-09 09:12:28.427 [info] > git rev-parse --show-toplevel [3ms]
+2026-09-09 09:12:28.428 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:12:28.436 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat -n50 --skip=0 --topo-order --decorate=full --stdin [24ms]
+2026-09-09 09:12:28.436 [info] fatal: bad revision 'refs/heads/main'
+2026-09-09 09:12:28.436 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2026-09-09 09:12:28.954 [info] > git check-ignore -v -z --stdin [26ms]
+2026-09-09 09:12:33.749 [info] > git check-ignore -v -z --stdin [27ms]
+2026-09-09 09:13:00.598 [info] > git check-ignore -v -z --stdin [25ms]

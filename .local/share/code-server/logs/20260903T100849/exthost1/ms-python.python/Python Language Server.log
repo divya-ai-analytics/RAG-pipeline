@@ -1,0 +1,13 @@
+2026-09-03 10:38:45.649 [info] semantic_tokens_range file:///voc/work/divya-capstone/src/pipeline/fake_llm.py 0:0-35:17
+2026-09-03 10:38:45.653 [info] semantic_tokens_full file:///voc/work/divya-capstone/src/pipeline/fake_llm.py 
+2026-09-03 10:38:46.291 [info] [Debug - 10:38:46 AM] no definitions found for name "question" of type 'statement' (168:8)
+2026-09-03 10:38:46.291 [info] [Debug - 10:38:46 AM] no definitions found for name "text" of type 'statement' (169:8)
+2026-09-03 10:38:46.295 [info] [Debug - 10:38:46 AM] no definitions found for name "cost_usd" of type 'statement' (170:8)
+2026-09-03 10:38:46.295 [info] [Debug - 10:38:46 AM] no matching semantic token for "__name__" of type 'statement' (174:3)
+2026-09-03 10:38:46.298 [info] [Debug - 10:38:46 AM] no definitions found for name "text" of type 'statement' (178:21)
+2026-09-03 10:38:46.298 [info] [Debug - 10:38:46 AM] no definitions found for name "text" of type 'statement' (179:21)
+2026-09-03 10:38:46.298 [info] [Debug - 10:38:46 AM] no definitions found for name "text" of type 'statement' (180:21)
+2026-09-03 10:38:46.299 [info] [Debug - 10:38:46 AM] multiple definitions found for name "text" of type 'statement' (184:26):
+ <Name full_name='divya-capstone.src.pipeline.fake_llm.Question.text', description='text: str'>
+<Name full_name='divya-capstone.src.pipeline.fake_llm.Question.text', description='text: str'>
+<Name full_name='divya-capstone.src.pipeline.fake_llm.Question.text', description='text: str'>

@@ -1,0 +1,67 @@
+2026-09-09 09:25:26.934 [info] [main] Log level: Info
+2026-09-09 09:25:26.935 [info] [main] Validating found git in: "git"
+2026-09-09 09:25:26.938 [info] [main] Using git "2.25.1" from "git"
+2026-09-09 09:25:26.938 [info] [Model][doInitialScan] Initial repository scan started
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [8ms]
+2026-09-09 09:25:26.938 [info] fatal: this operation must be run in a work tree
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [3ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [7ms]
+2026-09-09 09:25:26.938 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [10ms]
+2026-09-09 09:25:26.938 [info] [Model][openRepository] Opened repository (path): /voc/work/divya-capstone
+2026-09-09 09:25:26.938 [info] [Model][openRepository] Opened repository (real path): /voc/work/divya-capstone
+2026-09-09 09:25:26.938 [info] [Model][openRepository] Opened repository (kind): repository
+2026-09-09 09:25:26.938 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [3ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] > git config --get commit.template [8ms]
+2026-09-09 09:25:26.938 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 09:25:26.938 [info] fatal: not a git repository (or any parent up to mount point /voc)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-09 09:25:26.938 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-09-09 09:25:26.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2026-09-09 09:25:26.938 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:25:26.938 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-09-09 09:25:26.938 [info] > git status -z -uall [20ms]
+2026-09-09 09:25:26.938 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 09:25:26.938 [info] > git config --get commit.template [8ms]
+2026-09-09 09:25:26.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2026-09-09 09:25:26.938 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:25:26.938 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2026-09-09 09:25:26.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2026-09-09 09:25:26.938 [warning] [Git][getBranch] No such branch: main
+2026-09-09 09:25:26.938 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-09-09 09:25:26.938 [info] > git status -z -uall [23ms]
+2026-09-09 09:25:27.810 [info] > git check-ignore -v -z --stdin [15ms]
+2026-09-09 09:25:28.550 [info] > git show --textconv :.git/COMMIT_EDITMSG [17ms]
+2026-09-09 09:25:28.550 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [15ms]
+2026-09-09 09:25:28.567 [info] > git hash-object -t tree /dev/null [10ms]
+2026-09-09 09:25:28.567 [warning] [GitFileSystemProvider][readFile] File not found - git:/voc/work/divya-capstone/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fvoc%2Fwork%2Fdivya-capstone%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2026-09-09 09:25:28.569 [info] > git hash-object -t tree /dev/null [14ms]
+2026-09-09 09:25:28.571 [warning] [GitFileSystemProvider][stat] File not found - git:/voc/work/divya-capstone/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fvoc%2Fwork%2Fdivya-capstone%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D

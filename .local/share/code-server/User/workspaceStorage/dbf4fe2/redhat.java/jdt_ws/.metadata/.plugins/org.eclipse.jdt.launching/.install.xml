@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/local/lib/code-server-4.103.2/lib/vscode/extensions/redhat.java-1.45.0@linux-x64/jre/21.0.8-linux-x86_64" stamp="1757377906000"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1717733601000"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1717732868000"/>
+</dirs>

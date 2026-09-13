@@ -1,0 +1,22 @@
+2026-09-01 15:40:23.134 [info] 
+
+
+
+
+2026-09-01 15:40:23.134 [info] Extension host agent started.
+2026-09-01 15:40:28.335 [info] [172.16.4.1][ee356165][ManagementConnection] New connection established.
+2026-09-01 15:40:32.065 [info] [172.16.4.1][8501208b][ExtensionHostConnection] New connection established.
+2026-09-01 15:40:32.098 [info] [172.16.4.1][8501208b][ExtensionHostConnection] <77> Launched Extension Host Process.
+2026-09-01 15:40:50.648 [info] [172.16.4.1][ee356165][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-09-01 15:40:50.739 [info] [172.16.4.1][8501208b][ExtensionHostConnection] <77> Extension Host Process exited with code: 0, signal: null.
+2026-09-01 15:46:54.178 [info] [172.16.4.1][2e19ca84][ManagementConnection] New connection established.
+2026-09-01 15:46:58.266 [info] [172.16.4.1][d68da61c][ExtensionHostConnection] New connection established.
+2026-09-01 15:46:58.269 [info] [172.16.4.1][d68da61c][ExtensionHostConnection] <302> Launched Extension Host Process.
+2026-09-01 16:11:07.185 [info] [172.16.4.1][2e19ca84][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-09-01 16:11:07.352 [info] [172.16.4.1][d68da61c][ExtensionHostConnection] <302> Extension Host Process exited with code: 0, signal: null.
+2026-09-01 16:11:36.111 [info] [172.16.4.1][d743bf5f][ManagementConnection] New connection established.
+2026-09-01 16:11:39.695 [info] [172.16.4.1][c8f03758][ExtensionHostConnection] New connection established.
+2026-09-01 16:11:39.698 [info] [172.16.4.1][c8f03758][ExtensionHostConnection] <5063> Launched Extension Host Process.
+2026-09-01 16:38:22.151 [info] [172.16.4.1][d743bf5f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-09-01 19:37:54.005 [info] [172.16.4.1][c8f03758][ExtensionHostConnection] <5063> Extension Host Process exited with code: 0, signal: null.
+2026-09-01 19:38:24.017 [info] [172.16.4.1][d743bf5f][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
